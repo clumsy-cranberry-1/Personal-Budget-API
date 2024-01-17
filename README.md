@@ -9,11 +9,11 @@
 ![Static Badge](https://img.shields.io/badge/JavaScript-grey?style=flat-square&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/Node.js-grey?style=flat-square&logo=node.js)
 ![Static Badge](https://img.shields.io/badge/Express.js-grey?style=flat-square&logo=express)
+![Static Badge](https://img.shields.io/badge/Postman-grey?style=flat-square&logo=postman)
 ![Static Badge](https://img.shields.io/badge/Codecademy%20Project-grey?style=flat-square&logo=codecademy)
 
 <hr>
 </div>
-
 
 The Envelope Budget API is designed to manage a portfolio budget using a budget envelope strategy. It allows you to create, read, update, and delete envelopes to help them track how much money you're spending on certain categories in your budget.
 
@@ -91,3 +91,5 @@ This API was initially developed as part of the Backend Engineer Path on Codecad
 ## Contributions
 
 Contributions are welcome! I apreciate any recommendations for improvement.
+
+Made with 💛 by Melissa V. Herbst
