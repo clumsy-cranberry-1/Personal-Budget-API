@@ -1,6 +1,6 @@
 <div align=center>
 
-<img src="https://github.com/melissaveraherbst/envelope-budget-api/assets/84316275/a1c47de7-a75b-4b8c-81ad-efe9580e586b" width=300px />
+<img src="https://github.com/melissaveraherbst/envelope-budget-api/assets/84316275/a1c47de7-a75b-4b8c-81ad-efe9580e586b" width=30% />
 
 # Envelope Budget API
 
@@ -17,6 +17,7 @@
 
 The Envelope Budget API is designed to manage a portfolio budget using a budget envelope strategy. It allows you to create, read, update, and delete envelopes to help them track how much money you're spending on certain categories in your budget.
 
+> [!NOTE]
 > This API is part of a larger full-stack project. The complete project comprises a database, a front-end interface, and this API to handle the backend functionalities.
 >
 > While the full-stack project is in progress, the API has been developed and made available here. The database and front-end components will most likely reside in separate GitHub repositories for which I will provide a link to in this repository on completion.
